@@ -28,10 +28,10 @@ This project explores different deep learning models for classifying text, inclu
 ---
 
 ## Project Structure
-cnn_model.py # CNN-based classifier
-rnn_model.py # RNN-based classifier
-word2vec_utils.py # Word2Vec training and integration
-README.md # This file
+- **cnn_model.py** :CNN-based classifier
+- **rnn_model.py** : RNN-based classifier
+- **word2vec_utils.py** : Word2Vec training and integration
+- **README.md** 
 
 ## How to Run:
 1. Install dependencies
